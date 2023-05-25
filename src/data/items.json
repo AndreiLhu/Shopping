@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "T-shirt",
+    "gender": "Male",
+    "price": 6.99,
+    "imgUrl": "/img/t-shirt-m.jpg"
+  },
+  {
+    "id": 2,
+    "name": "T-shirt",
+    "gender": "Female",
+    "price": 5.99,
+    "imgUrl": "/img/t-shirt-fm.jpg"
+  },
+  {
+    "id": 3,
+    "name": "T-shirt",
+    "gender": "Kids",
+    "price": 4.99,
+    "imgUrl": "/img/t-shirt-ki.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Dress",
+    "gender": "Female",
+    "price": 84.99,
+    "imgUrl": "/img/dress.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Dress",
+    "gender": "Kids",
+    "price": 12.99,
+    "imgUrl": "/img/dress-ki.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Jeans",
+    "gender": "Male",
+    "price": 16.99,
+    "imgUrl": "/img/jeans.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Hat",
+    "gender": "Female",
+    "price": 11,
+    "imgUrl": "/img/hat-w.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Hat",
+    "gender": "Male",
+    "price": 11.5,
+    "imgUrl": "/img/hat-m.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Hat",
+    "gender": "Kids",
+    "price": 8.99,
+    "imgUrl": "/img/hat-k.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Sneakers",
+    "gender": "Male",
+    "price": 60,
+    "imgUrl": "/img/sneakers-m.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Sneakers",
+    "gender": "Kids",
+    "price": 40,
+    "imgUrl": "/img/sneakers-k.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Sneakers",
+    "gender": "Female",
+    "price": 55,
+    "imgUrl": "/img/sneakers-f.jpg"
+  }
+]
