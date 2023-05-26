@@ -10,7 +10,7 @@ type StoreItemProps = {
 };
 
 export function StoreItem({ id, name, gender, price, imgUrl }: StoreItemProps) {
-  const quantity = 1;
+  const quantity = 0;
   return (
     <Card className="h-100">
       <Card.Img
@@ -43,7 +43,9 @@ export function StoreItem({ id, name, gender, price, imgUrl }: StoreItemProps) {
                 </div>
                 <Button>+</Button>
               </div>
-              bye
+              <Button variant="danger" size="sm">
+                Remove
+              </Button>
             </div>
           )}
         </div>
